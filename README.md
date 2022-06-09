@@ -66,11 +66,11 @@ Se abrirá un pestaña en el navegador donde debemos navegar a la carpeta donde 
 
 - **Anaconda**
 
-En anaconda de igual manera abrimos la pestaña de Jupyter Notebook en el navegador, navegamos a la carpeta con los archivos necesarios (Tarea2-TPCD) y abrimos el archivo "Main.ipynb".
+En anaconda de igual manera abrimos la pestaña de Jupyter Notebook en el navegador, navegamos a la carpeta con los archivos necesarios (Tarea2-TPCD) y abrimos el archivo "main.ipynb".
 
 - **Visual Studio Code**
 
-El proceso es similar a utilizar la herramienta de Anaconda, navegamos a la carpeta con los archivos necesarios (Tarea2-TPCD) y abrimos el archivo "Main.ipynb".
+El proceso es similar a utilizar la herramienta de Anaconda, navegamos a la carpeta con los archivos necesarios (Tarea2-TPCD) y abrimos el archivo "main.ipynb".
 
 ## Versión Python necesaria
 
