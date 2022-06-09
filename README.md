@@ -47,7 +47,7 @@ py -m pip install matplotlib
 ### Utilizar Notebook
 - **Terminal**
 
-Descomprimir el notebook y abrir una terminal cambiando el directorio de trabajo actual a la ubicación en donde se encuentra nuestro notebook "Main.ipynb".
+Descomprimir el notebook y abrir una terminal cambiando el directorio de trabajo actual a la ubicación en donde se encuentra nuestro notebook "main.ipynb".
 ```bash
 cd Visualizacion-Datos-TPCD
 ```
@@ -62,7 +62,7 @@ Luego debemos ejecutar la aplicación Jupyter Notebook
 ```bash
 jupyter notebook
 ```
-Se abrirá un pestaña en el navegador donde debemos navegar a la carpeta donde tenemos nuestro notebook (Tarea2-TPCD) y abrir "Main.ipynb".
+Se abrirá un pestaña en el navegador donde debemos navegar a la carpeta donde tenemos nuestro notebook (Visualizacion-Datos-TPCD) y abrir "main.ipynb".
 
 - **Anaconda**
 
